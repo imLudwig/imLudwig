@@ -1,6 +1,6 @@
 # [Hello there](https://i.giphy.com/xTiIzJSKB4l7xTouE8.webp) 👋
 
-![Static Badge](https://img.shields.io/badge/Spoken%20Languages-636363)&nbsp;&nbsp;![Static Badge](https://img.shields.io/badge/English-012169)&nbsp;![Static Badge](https://img.shields.io/badge/Deutsch-ffce00) 
+![Static Badge](https://img.shields.io/badge/Spoken%20Languages:-636363)&nbsp;&nbsp;![Static Badge](https://img.shields.io/badge/English-012169)&nbsp;![Static Badge](https://img.shields.io/badge/Deutsch-ffce00) 
 
 ## Links:
 - Paid FiveM scripts - [Tebex Store](https://ludwig-development.tebex.io/)
