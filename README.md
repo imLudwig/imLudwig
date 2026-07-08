@@ -10,7 +10,7 @@
 ## Integrations:
 [![Skills](https://skills.syvixor.com/api/icons?perline=15&i=mariadb,postgresql,github,githubactions)](https://github.com/syvixor/skills-icons)
 ## Looking into:
-[![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=nextjs,prisma&theme=dark)](https://github.com/syvixor/skills-icons)
+[![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=nextjs,prisma,npm&theme=dark)](https://github.com/syvixor/skills-icons)
 
 <hr style="border-radius: 50px";>
 <p align="center">
